@@ -5,4 +5,4 @@ This project took me around 2 hours to finish .
 
 # ![Plant-homepage](./project-06-output.png)
 
-# [Link]()
+# [Link](https://plant-homepage.netlify.app/)
